@@ -11,12 +11,13 @@ The CENMS dataset is introduced : the first Chinese Emergency News Mutil-documen
 Properties
 CENMS contains more than 20K summaries clusters and covers four major categories, including natural disaster, accident, public health and society security. Four major categories can be devived into 39 sub-topics from COVID-19 to earthquake. 
 
-Sub-topic	number
-Blizzard 	30
-Other Disasters	7
-Earthquake	1560
-Drought	20
-Flood	673
+|Sub-topic|	number|
+|     :---:      |          ---: |
+|Blizzard |	30|
+|Other Disasters	|7|
+|Earthquake |	1560|
+|Drought	|20|
+|Flood	|673|
 Fog	149
 Forest Fire	16
 Ice storm	35
